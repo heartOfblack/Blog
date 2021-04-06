@@ -17,4 +17,6 @@ categories: // 该文章的分类
 ### 发版步骤
 
 由于github page的目录选择和vue-press之间有区别，无法选择打包后的public作为根目录文件。只能选择/root或者/docs目录
-因此github page实际上选择的是根目录文件。直接把打包后的public内容复制到上级(虽然目录会看起来乱，但是如果分其他分支处理，发版会很麻烦)。推送到github即可
+因此github page实际上选择的是根目录文件。
+- 执行 npm run build
+- 直接把打包后的public内容复制到上级(虽然目录会看起来乱，但是如果分其他分支处理，发版会很麻烦)。推送到github即可
