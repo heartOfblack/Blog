@@ -1,4 +1,5 @@
 module.exports = {
+  base:'/Blog/',
   "title": "heartOfblack",
   "description": "",
   "dest": "public",
@@ -85,7 +86,7 @@ module.exports = {
     // "lastUpdated": "Last Updated",
     "author": "陈思远",
     "authorAvatar": "/avatar.png",
-    "record": "xxxx",
+    // "record": "xxxx",
     "startYear": "2021"
   },
   "markdown": {
