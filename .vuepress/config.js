@@ -1,5 +1,6 @@
 module.exports = {
   base:'/Blog/',
+  cache: false,
   "title": "heartOfblack",
   "description": "",
   "dest": "public",
