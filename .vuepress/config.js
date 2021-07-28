@@ -1,5 +1,5 @@
 module.exports = {
-  base:'/Blog/',
+  base:'/Blog/', //此处应该与github page的路径一致。此时对于的github page为  https://heartofblack.github.io/Blog/
   cache: false,
   "title": "heartOfblack",
   "description": "",
@@ -84,7 +84,7 @@ module.exports = {
     "logo": "/logo.png",
     "search": true,
     "searchMaxSuggestions": 10,
-    // "lastUpdated": "Last Updated",
+    "lastUpdated": "Last Updated",
     "author": "陈思远",
     "authorAvatar": "/avatar.png",
     // "record": "xxxx",
