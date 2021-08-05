@@ -1,5 +1,5 @@
 ---
-title: 安装第三方依赖
+title: 2 安装第三方依赖
 date: 2021-8-3
 categories:
  - vue从零搭建业务管理 
@@ -8,4 +8,6 @@ categories:
 > 本系统使用element-ui，因此需要先安装element-ui
 >
 > 为了初始化浏览器自带的css, 安装依赖normalize.css 重置所有css
+>
+> 对应的依赖安装和引入，请到对应官网根据不同版本引入，此处不做赘述
 
